@@ -6,7 +6,7 @@ In this repository we provide basic structure file and codes to run the analysis
 
 Folder structure: 
 
-We show two folders, one containing the code and structure to run the analysis with paleoeartquake data (Analysis_w_paleodata) and another without them (Analysis_wo_paleodata). Each folder contains a series of subfolders and a Python script to run the ranking analysis for that specific case study. The script contains the default path references to read all necessary input files for the analysis and automatically save all the outputs. The subfolders are:
+We provide two folders, one containing the code and structure to run the analysis with paleoeartquake data (Analysis_w_paleodata) and another without them (Analysis_wo_paleodata). Each folder contains a series of subfolders and a Python script to run the ranking analysis for that specific case study. The script contains the default path references to read all necessary input files for the analysis and automatically save all the outputs. The subfolders are:
 
 ./Inputs: This folder contains the input files required for the analysis:
 
