@@ -1,4 +1,4 @@
-# Ranking-physics-based-EQ-simulations
+# Method for ranking physics based earthquake simulations
 
 This repository contains the codes to perform the ranking analysis of physics-based earthquake simulation models explained in the article "A multi-benchmark performance analysis of physics-based earthquake simulations", currently submitted for publication.
 
