@@ -16,7 +16,7 @@ b. (Only for the case with paleodata) Input paleoseismic data for the paleorate 
 
 ./Simulation_models: contains several subfolders, one for each simulated catalogue. Each subfolder contains data that is read by the Ranking Python code to perform the analysis.
 
-./Ranking_results: contains the outputs of the ranking analysis, which are two figures and one text file.
+./Ranking_results: When running the code this folder is created and the outputs of the ranking analysis are stored there, which are two figures and one text file: 
 
 *Figure 1 ("Final_ranking.pdf"): visualization of the final ranking analysis for all models against the analyzed benchmarks.
 
