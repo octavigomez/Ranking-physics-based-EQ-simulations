@@ -1,0 +1,30 @@
+	There are 14 MPI processes
+assignPatches() is done.
+ k= 0  from start patch [0] to stop patch [297] # of patches 298
+ k= 1  from start patch [298] to stop patch [595] # of patches 298
+ k= 2  from start patch [596] to stop patch [892] # of patches 297
+ k= 3  from start patch [893] to stop patch [1189] # of patches 297
+ k= 4  from start patch [1190] to stop patch [1486] # of patches 297
+ k= 5  from start patch [1487] to stop patch [1783] # of patches 297
+ k= 6  from start patch [1784] to stop patch [2080] # of patches 297
+ k= 7  from start patch [2081] to stop patch [2377] # of patches 297
+ k= 8  from start patch [2378] to stop patch [2674] # of patches 297
+ k= 9  from start patch [2675] to stop patch [2971] # of patches 297
+ k= 10  from start patch [2972] to stop patch [3268] # of patches 297
+ k= 11  from start patch [3269] to stop patch [3565] # of patches 297
+ k= 12  from start patch [3566] to stop patch [3862] # of patches 297
+ k= 13  from start patch [3863] to stop patch [4159] # of patches 297
+setUpDataTypes() is done.
+Total wall clock time: 34.000810 second
+	Initialization time: 21.354500 second
+	Total find min transition time: 6.257024 second
+		Total allreduce time: 3.327953 second
+	Total time step time: 1.894766 second
+	Total state transition time: 0.977459 second
+	Total updating equation time: 2.432258 second
+Total memory: 29 MBytes
+	There are 1 OpenMP processes per node
+
+	Earthquake information : 
+	# of EQS =  100000 
+	# nEq = 100000.000000 

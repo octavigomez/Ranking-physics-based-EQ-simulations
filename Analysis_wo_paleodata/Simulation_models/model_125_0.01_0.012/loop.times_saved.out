@@ -1,0 +1,2 @@
+OMP #Proc #N initializationTime findTransitionTime allReduceTime timeStepTime transitionTime updatingEqsTime memorySize(MB) OMP_pernode TotalTime 
+1 14 4160 21.354500 6.257024 3.327953 1.894766 0.977459 2.432258 29 1 34.000810
