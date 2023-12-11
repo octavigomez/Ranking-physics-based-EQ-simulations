@@ -2,7 +2,7 @@
 
 This repository contains the codes to perform the ranking analysis of physics-based earthquake simulation models explained in the article "A multi-benchmark performance analysis of physics-based earthquake simulations", currently submitted for publication.
 
-In this repository we provide basic structure file and codes to run the analysis that will be mantained and updated over time. We also provide a sample of datasets for users to test the codes and perform an example analysis. These convey a sample of the cases explained in the paper: a single fault and the fault system of the Eastern Betics Shear Zone (simulations from Herrero-Barbero et al. 2021). For full datasets and frozen-version codes of the publication please visit the related Zenodo repository: 
+In this repository we provide basic structure file and codes to run the analysis that will be mantained and updated over time. We also provide a sample of datasets for users to test the codes and perform an example analysis. These convey a sample of the cases explained in the paper: a single fault and the fault system of the Eastern Betics Shear Zone (simulations from Herrero-Barbero et al. 2021). For full datasets and frozen-version codes of the publication please visit the related Zenodo repository: https://doi.org/10.5281/zenodo.10143779
 
 Folder structure: 
 
